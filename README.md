@@ -1,4 +1,4 @@
-# Gla-2
+# Gla-2.5
 here is All my works related to my College...
 Java Logical Operators<br>
 Logical operators are used to determine the logic between variables or values:<br>
